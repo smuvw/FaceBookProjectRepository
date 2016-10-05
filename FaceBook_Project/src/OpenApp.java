@@ -8,6 +8,7 @@ public class OpenApp {
 		
 		driver.get("http://facebook.com/");
 		
+		driver.getTitle();
 		System.out.println("Facebook page is opened");
 
 	}
