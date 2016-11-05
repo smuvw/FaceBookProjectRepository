@@ -10,7 +10,7 @@ public class OpenApp {
 		
 		driver.getTitle();
 		System.out.println("Facebook page is opened");
-
+		System.out.println("Facebook main page  is opened");
 	}
 
 }
